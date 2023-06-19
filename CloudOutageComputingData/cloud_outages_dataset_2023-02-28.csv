@@ -1,0 +1,13 @@
+place,start time,end time,original downtime,unit,Ripe Atlas Confirmation Ratio,notes,downtime,Service Name
+af-south-1,20 Feb 2023 08:00 PST,20 Feb 2023 08:03 PST,3.30,mins,NA,None,3.3,Amazon EC2
+af-south-1,20 Feb 2023 06:21 PST,20 Feb 2023 07:43 PST,1.37,hours,NA,None,82.2,Amazon EC2
+VA1,15 Feb 2023 11:18 PST,15 Feb 2023 11:20 PST,2.68,mins,NA,None,2.68,CenturyLink Cloud Servers
+VA1,15 Feb 2023 11:16 PST,15 Feb 2023 11:18 PST,1.98,mins,NA,None,1.98,CenturyLink Cloud Servers
+lon1,08 Feb 2023 18:29 PST,08 Feb 2023 18:30 PST,1.55,mins,NA,None,1.55,DigitalOcean
+lon1,08 Feb 2023 18:27 PST,08 Feb 2023 18:28 PST,1.80,mins,NA,None,1.8,DigitalOcean
+tor1,14 Feb 2023 08:36 PST,14 Feb 2023 08:39 PST,3.25,mins,NA,None,3.25,DigitalOcean
+tor1,14 Feb 2023 08:35 PST,14 Feb 2023 08:36 PST,1.48,mins,NA,None,1.48,DigitalOcean
+cn-chengdu,31 Jan 2023 07:43 PST,31 Jan 2023 14:33 PST,6.84,hours,NA,None,410.4,Alibaba Elastic Compute Service
+GB1,02 Feb 2023 12:49 PST,02 Feb 2023 12:51 PST,2.42,mins,NA,None,2.42,CenturyLink Cloud Servers
+WA1,02 Feb 2023 12:57 PST,02 Feb 2023 12:59 PST,1.75,mins,NA,None,1.75,CenturyLink Cloud Servers
+ny3,28 Jan 2023 21:07 PST,28 Jan 2023 21:13 PST,5.98,mins,NA,None,5.98,DigitalOcean

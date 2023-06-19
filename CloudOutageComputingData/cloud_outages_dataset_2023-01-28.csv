@@ -1,0 +1,55 @@
+place,start time,end time,original downtime,unit,Ripe Atlas Confirmation Ratio,notes,downtime,Service Name
+australia-central,25 Jan 2023 00:06 PST,25 Jan 2023 00:07 PST,41,secs,NA,None,0.6833333333333333,Microsoft Azure Virtual Machines
+australia-central,25 Jan 2023 00:05 PST,25 Jan 2023 00:06 PST,60,secs,NA,None,1.0,Microsoft Azure Virtual Machines
+australia-central,25 Jan 2023 00:04 PST,25 Jan 2023 00:05 PST,53,secs,NA,None,0.8833333333333333,Microsoft Azure Virtual Machines
+australia-central,25 Jan 2023 00:00 PST,25 Jan 2023 00:03 PST,2.45,mins,NA,None,2.45,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:55 PST,24 Jan 2023 23:58 PST,2.48,mins,NA,None,2.48,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:48 PST,24 Jan 2023 23:51 PST,2.27,mins,NA,None,2.27,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:46 PST,24 Jan 2023 23:48 PST,2.40,mins,NA,None,2.4,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:37 PST,24 Jan 2023 23:38 PST,43,secs,NA,None,0.7166666666666667,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:32 PST,24 Jan 2023 23:34 PST,2.13,mins,NA,None,2.13,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:31 PST,24 Jan 2023 23:32 PST,1.08,mins,NA,None,1.08,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:27 PST,24 Jan 2023 23:30 PST,2.33,mins,NA,None,2.33,Microsoft Azure Virtual Machines
+australia-central,24 Jan 2023 23:09 PST,24 Jan 2023 23:10 PST,1.33,mins,NA,None,1.33,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:57 PST,24 Jan 2023 23:58 PST,1.08,mins,NA,None,1.08,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:54 PST,24 Jan 2023 23:54 PST,49,secs,NA,None,0.8166666666666667,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:37 PST,24 Jan 2023 23:38 PST,45,secs,NA,None,0.75,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:34 PST,24 Jan 2023 23:36 PST,1.20,mins,NA,None,1.2,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:27 PST,24 Jan 2023 23:30 PST,3.62,mins,NA,None,3.62,Microsoft Azure Virtual Machines
+australia-east,24 Jan 2023 23:25 PST,24 Jan 2023 23:27 PST,2.15,mins,NA,None,2.15,Microsoft Azure Virtual Machines
+india-central,25 Jan 2023 00:12 PST,25 Jan 2023 00:14 PST,2.47,mins,NA,None,2.47,Microsoft Azure Virtual Machines
+india-central,25 Jan 2023 00:08 PST,25 Jan 2023 00:11 PST,2.63,mins,NA,None,2.63,Microsoft Azure Virtual Machines
+india-central,25 Jan 2023 00:06 PST,25 Jan 2023 00:08 PST,2.20,mins,NA,None,2.2,Microsoft Azure Virtual Machines
+india-central,24 Jan 2023 23:52 PST,24 Jan 2023 23:53 PST,1.47,mins,NA,None,1.47,Microsoft Azure Virtual Machines
+india-central,24 Jan 2023 23:50 PST,24 Jan 2023 23:51 PST,1.47,mins,NA,None,1.47,Microsoft Azure Virtual Machines
+india-central,24 Jan 2023 23:10 PST,24 Jan 2023 23:15 PST,5.85,mins,NA,None,5.85,Microsoft Azure Virtual Machines
+india-south,25 Jan 2023 00:05 PST,25 Jan 2023 00:08 PST,3.48,mins,NA,None,3.48,Microsoft Azure Virtual Machines
+india-south,24 Jan 2023 23:53 PST,24 Jan 2023 23:55 PST,1.58,mins,NA,None,1.58,Microsoft Azure Virtual Machines
+india-south,24 Jan 2023 23:51 PST,24 Jan 2023 23:52 PST,1.48,mins,NA,None,1.48,Microsoft Azure Virtual Machines
+india-south,24 Jan 2023 23:44 PST,24 Jan 2023 23:51 PST,6.78,mins,NA,None,6.78,Microsoft Azure Virtual Machines
+southafrica-north,24 Jan 2023 23:43 PST,24 Jan 2023 23:47 PST,3.82,mins,NA,None,3.82,Microsoft Azure Virtual Machines
+southafrica-north,24 Jan 2023 23:12 PST,24 Jan 2023 23:13 PST,1.08,mins,NA,None,1.08,Microsoft Azure Virtual Machines
+southafrica-north,24 Jan 2023 23:09 PST,24 Jan 2023 23:10 PST,1.48,mins,NA,None,1.48,Microsoft Azure Virtual Machines
+Loading,outages... Specific outage records are,unavailable Unable to load service,outages,0,0,0,0.0,
+brazil-southeast,24 Jan 2023 23:43 PST,24 Jan 2023 23:45 PST,2.07,mins,NA,None,2.07,Microsoft Azure Virtual Machines
+brazil-southeast,24 Jan 2023 23:09 PST,24 Jan 2023 23:12 PST,2.93,mins,NA,None,2.93,Microsoft Azure Virtual Machines
+germany-westcentral,24 Jan 2023 23:52 PST,25 Jan 2023 00:31 PST,39.55,mins,NA,None,39.55,Microsoft Azure Virtual Machines
+germany-westcentral,24 Jan 2023 23:41 PST,24 Jan 2023 23:48 PST,7.17,mins,76%,None,7.17,Microsoft Azure Virtual Machines
+norway-east,25 Jan 2023 00:01 PST,25 Jan 2023 00:06 PST,5.02,mins,NA,None,5.02,Microsoft Azure Virtual Machines
+norway-east,24 Jan 2023 23:53 PST,24 Jan 2023 23:54 PST,1.05,mins,NA,None,1.05,Microsoft Azure Virtual Machines
+uae-central,24 Jan 2023 23:50 PST,24 Jan 2023 23:51 PST,1.65,mins,NA,None,1.65,Microsoft Azure Virtual Machines
+uae-central,24 Jan 2023 23:43 PST,24 Jan 2023 23:49 PST,6.30,mins,NA,None,6.3,Microsoft Azure Virtual Machines
+ap-chengdu,16 Jan 2023 07:28 PST,16 Jan 2023 07:30 PST,1.30,mins,NA,None,1.3,Tencent Cloud Virtual Machine
+ap-chengdu,10 Jan 2023 20:28 PST,10 Jan 2023 20:31 PST,2.40,mins,NA,None,2.4,Tencent Cloud Virtual Machine
+CA3,19 Jan 2023 13:43 PST,19 Jan 2023 13:44 PST,1.37,mins,NA,None,1.37,CenturyLink Cloud Servers
+SG1,03 Jan 2023 09:26 PST,03 Jan 2023 09:28 PST,1.57,mins,NA,None,1.57,CenturyLink Cloud Servers
+lon1,20 Jan 2023 17:31 PST,20 Jan 2023 17:54 PST,23.18,mins,NA,None,23.18,DigitalOcean
+sg1,14 Jan 2023 10:34 PST,14 Jan 2023 10:48 PST,14.52,mins,NA,None,14.52,DigitalOcean
+australia-central2,24 Jan 2023 23:09 PST,24 Jan 2023 23:10 PST,1.33,mins,NA,None,1.33,Microsoft Azure Virtual Machines
+eu-north,24 Jan 2023 23:08 PST,24 Jan 2023 23:10 PST,1.63,mins,NA,None,1.63,Microsoft Azure Virtual Machines
+japan-west,25 Jan 2023 00:10 PST,25 Jan 2023 00:11 PST,42,secs,NA,None,0.7,Microsoft Azure Virtual Machines
+norway-west,24 Jan 2023 23:44 PST,24 Jan 2023 23:47 PST,2.83,mins,NA,None,2.83,Microsoft Azure Virtual Machines
+southafrica-west,24 Jan 2023 23:42 PST,24 Jan 2023 23:51 PST,9.70,mins,NA,None,9.7,Microsoft Azure Virtual Machines
+switzerland-west,24 Jan 2023 23:09 PST,24 Jan 2023 23:13 PST,3.18,mins,NA,None,3.18,Microsoft Azure Virtual Machines
+uae-north,24 Jan 2023 23:09 PST,24 Jan 2023 23:11 PST,2.80,mins,NA,None,2.8,Microsoft Azure Virtual Machines
+ap-chongqing,11 Jan 2023 06:13 PST,11 Jan 2023 06:15 PST,1.77,mins,NA,None,1.77,Tencent Cloud Virtual Machine

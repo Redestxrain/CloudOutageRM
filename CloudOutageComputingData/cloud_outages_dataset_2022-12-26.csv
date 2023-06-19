@@ -1,0 +1,18 @@
+place,start time,end time,original downtime,unit,Ripe Atlas Confirmation Ratio,notes,downtime,Service Name
+eu-frankfurt,01 Dec 2022 22:44 PST,01 Dec 2022 22:45 PST,49,secs,NA,None,0.8166666666666667,Tencent Cloud Virtual Machine
+eu-frankfurt,01 Dec 2022 22:41 PST,01 Dec 2022 22:42 PST,57,secs,NA,None,0.95,Tencent Cloud Virtual Machine
+eu-frankfurt,01 Dec 2022 22:39 PST,01 Dec 2022 22:40 PST,1.85,mins,NA,None,1.85,Tencent Cloud Virtual Machine
+eu-frankfurt,01 Dec 2022 22:31 PST,01 Dec 2022 22:35 PST,4.17,mins,NA,None,4.17,Tencent Cloud Virtual Machine
+DE3,08 Dec 2022 16:09 PST,08 Dec 2022 16:10 PST,1.73,mins,NA,None,1.73,CenturyLink Cloud Servers
+DE3,06 Dec 2022 17:15 PST,06 Dec 2022 17:16 PST,1.03,mins,NA,None,1.03,CenturyLink Cloud Servers
+DE3,30 Nov 2022 17:26 PST,30 Nov 2022 17:35 PST,8.63,mins,NA,None,8.63,CenturyLink Cloud Servers
+Loading,outages... Specific outage records are,unavailable Unable to load service,outages,0,0,0,0.0,
+ap-chengdu,23 Dec 2022 07:06 PST,23 Dec 2022 07:08 PST,1.35,mins,NA,None,1.35,Tencent Cloud Virtual Machine
+ap-chengdu,04 Dec 2022 12:03 PST,04 Dec 2022 12:04 PST,59,secs,NA,None,0.9833333333333333,Tencent Cloud Virtual Machine
+ap-chongqing,23 Dec 2022 08:35 PST,23 Dec 2022 08:36 PST,43,secs,NA,None,0.7166666666666667,Tencent Cloud Virtual Machine
+ap-chongqing,20 Dec 2022 23:46 PST,20 Dec 2022 23:48 PST,1.82,mins,NA,None,1.82,Tencent Cloud Virtual Machine
+DE1,30 Nov 2022 17:27 PST,30 Nov 2022 17:33 PST,5.98,mins,NA,None,5.98,CenturyLink Cloud Servers
+us-south,26 Nov 2022 22:57 PST,26 Nov 2022 22:59 PST,1.40,mins,NA,None,1.4,IBM Virtual Private Cloud
+ap-chuncheon-1,08 Dec 2022 06:08 PST,08 Dec 2022 06:13 PST,4.88,mins,NA,None,4.88,Oracle Cloud Compute
+ap-tokyo-1,29 Nov 2022 12:58 PST,29 Nov 2022 12:59 PST,1.02,mins,NA,None,1.02,Oracle Cloud Compute
+ap-bangkok,01 Dec 2022 04:29 PST,01 Dec 2022 04:31 PST,1.78,mins,NA,None,1.78,Tencent Cloud Virtual Machine

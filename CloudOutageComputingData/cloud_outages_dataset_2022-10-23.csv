@@ -1,0 +1,60 @@
+place,start time,end time,original downtime,unit,Ripe Atlas Confirmation Ratio,notes,downtime,Service Name
+WA1,27 Sep 2022 10:15 PDT,27 Sep 2022 10:20 PDT,5.40,mins,NA,None,5.4,CenturyLink Cloud Servers
+WA1,27 Sep 2022 09:50 PDT,27 Sep 2022 09:58 PDT,8.22,mins,NA,None,8.22,CenturyLink Cloud Servers
+WA1,27 Sep 2022 09:18 PDT,27 Sep 2022 09:26 PDT,7.15,mins,NA,None,7.15,CenturyLink Cloud Servers
+WA1,27 Sep 2022 06:29 PDT,27 Sep 2022 06:39 PDT,9.72,mins,NA,None,9.72,CenturyLink Cloud Servers
+WA1,27 Sep 2022 06:11 PDT,27 Sep 2022 06:12 PDT,1.10,mins,NA,None,1.1,CenturyLink Cloud Servers
+WA1,27 Sep 2022 06:02 PDT,27 Sep 2022 06:10 PDT,8.38,mins,NA,None,8.38,CenturyLink Cloud Servers
+WA1,27 Sep 2022 05:01 PDT,27 Sep 2022 05:11 PDT,10.07,mins,NA,None,10.07,CenturyLink Cloud Servers
+WA1,27 Sep 2022 04:25 PDT,27 Sep 2022 04:35 PDT,10.13,mins,NA,None,10.13,CenturyLink Cloud Servers
+WA1,27 Sep 2022 02:37 PDT,27 Sep 2022 02:43 PDT,6.27,mins,NA,None,6.27,CenturyLink Cloud Servers
+WA1,27 Sep 2022 00:52 PDT,27 Sep 2022 00:59 PDT,6.23,mins,NA,None,6.23,CenturyLink Cloud Servers
+WA1,26 Sep 2022 23:22 PDT,26 Sep 2022 23:31 PDT,8.90,mins,NA,None,8.9,CenturyLink Cloud Servers
+WA1,26 Sep 2022 21:56 PDT,26 Sep 2022 22:09 PDT,12.52,mins,NA,None,12.52,CenturyLink Cloud Servers
+WA1,26 Sep 2022 20:43 PDT,26 Sep 2022 20:51 PDT,8.38,mins,NA,None,8.38,CenturyLink Cloud Servers
+WA1,24 Sep 2022 20:00 PDT,25 Sep 2022 23:33 PDT,27.54,hours,NA,None,1652.3999999999999,CenturyLink Cloud Servers
+WA1,23 Sep 2022 08:49 PDT,24 Sep 2022 19:31 PDT,34.70,hours,NA,None,2082.0,CenturyLink Cloud Servers
+WA1,23 Sep 2022 01:31 PDT,23 Sep 2022 08:17 PDT,6.77,hours,NA,None,406.2,CenturyLink Cloud Servers
+VA1,07 Oct 2022 22:43 PDT,07 Oct 2022 23:10 PDT,27.33,mins,NA,None,27.33,CenturyLink Cloud Servers
+VA1,07 Oct 2022 22:16 PDT,07 Oct 2022 22:17 PDT,1.13,mins,NA,None,1.13,CenturyLink Cloud Servers
+VA1,25 Sep 2022 19:02 PDT,25 Sep 2022 23:32 PDT,4.50,hours,NA,None,270.0,CenturyLink Cloud Servers
+VA1,25 Sep 2022 11:55 PDT,25 Sep 2022 18:43 PDT,6.80,hours,NA,None,408.0,CenturyLink Cloud Servers
+VA1,25 Sep 2022 04:16 PDT,25 Sep 2022 11:35 PDT,7.31,hours,NA,None,438.59999999999997,CenturyLink Cloud Servers
+VA1,24 Sep 2022 20:22 PDT,25 Sep 2022 03:33 PDT,7.18,hours,NA,None,430.79999999999995,CenturyLink Cloud Servers
+VA1,24 Sep 2022 09:10 PDT,24 Sep 2022 19:51 PDT,10.69,hours,NA,None,641.4,CenturyLink Cloud Servers
+VA1,24 Sep 2022 02:12 PDT,24 Sep 2022 08:17 PDT,6.08,hours,NA,None,364.8,CenturyLink Cloud Servers
+ap-chongqing,14 Oct 2022 07:46 PDT,14 Oct 2022 07:53 PDT,6.35,mins,NA,None,6.35,Tencent Cloud Virtual Machine
+ap-chongqing,05 Oct 2022 15:15 PDT,05 Oct 2022 15:17 PDT,2.05,mins,NA,None,2.05,Tencent Cloud Virtual Machine
+ap-chongqing,05 Oct 2022 14:21 PDT,05 Oct 2022 14:25 PDT,3.17,mins,NA,None,3.17,Tencent Cloud Virtual Machine
+ap-chongqing,05 Oct 2022 12:44 PDT,05 Oct 2022 12:45 PDT,50,secs,NA,None,0.8333333333333334,Tencent Cloud Virtual Machine
+ap-chongqing,05 Oct 2022 12:06 PDT,05 Oct 2022 12:06 PDT,44,secs,NA,None,0.7333333333333333,Tencent Cloud Virtual Machine
+ap-chongqing,02 Oct 2022 22:18 PDT,02 Oct 2022 22:20 PDT,2.08,mins,NA,None,2.08,Tencent Cloud Virtual Machine
+DE3,20 Oct 2022 06:01 PDT,20 Oct 2022 06:48 PDT,46.70,mins,NA,None,46.7,CenturyLink Cloud Servers
+DE3,20 Oct 2022 05:43 PDT,20 Oct 2022 05:50 PDT,6.25,mins,NA,None,6.25,CenturyLink Cloud Servers
+DE3,20 Oct 2022 05:08 PDT,20 Oct 2022 05:10 PDT,1.85,mins,NA,None,1.85,CenturyLink Cloud Servers
+DE3,25 Sep 2022 16:08 PDT,25 Sep 2022 23:13 PDT,7.09,hours,NA,None,425.4,CenturyLink Cloud Servers
+DE3,25 Sep 2022 06:56 PDT,25 Sep 2022 15:37 PDT,8.67,hours,NA,None,520.2,CenturyLink Cloud Servers
+NY1,24 Sep 2022 19:50 PDT,25 Sep 2022 23:32 PDT,27.69,hours,NA,None,1661.4,CenturyLink Cloud Servers
+NY1,24 Sep 2022 09:54 PDT,24 Sep 2022 19:37 PDT,9.72,hours,NA,None,583.2,CenturyLink Cloud Servers
+NY1,24 Sep 2022 02:54 PDT,24 Sep 2022 09:04 PDT,6.16,hours,NA,None,369.6,CenturyLink Cloud Servers
+NY1,23 Sep 2022 19:44 PDT,24 Sep 2022 01:55 PDT,6.19,hours,NA,None,371.40000000000003,CenturyLink Cloud Servers
+NY1,23 Sep 2022 12:22 PDT,23 Sep 2022 19:25 PDT,7.05,hours,NA,None,423.0,CenturyLink Cloud Servers
+Loading,outages... Specific outage records are,unavailable Unable to load service,outages,0,0,0,0.0,
+cn-nanjing,17 Oct 2022 05:54 PDT,17 Oct 2022 06:04 PDT,9.98,mins,NA,None,9.98,Alibaba Elastic Compute Service
+cn-nanjing,17 Oct 2022 03:16 PDT,17 Oct 2022 03:21 PDT,5.05,mins,NA,None,5.05,Alibaba Elastic Compute Service
+ap-chengdu,12 Oct 2022 20:16 PDT,12 Oct 2022 20:19 PDT,2.12,mins,NA,None,2.12,Tencent Cloud Virtual Machine
+ap-chengdu,26 Sep 2022 23:48 PDT,26 Sep 2022 23:50 PDT,1.23,mins,NA,None,1.23,Tencent Cloud Virtual Machine
+ap-southeast-6,09 Oct 2022 06:39 PDT,09 Oct 2022 06:43 PDT,3.58,mins,NA,None,3.58,Alibaba Elastic Compute Service
+cn-guangzhou,07 Oct 2022 13:36 PDT,07 Oct 2022 13:37 PDT,59,secs,NA,None,0.9833333333333333,Alibaba Elastic Compute Service
+cn-hangzhou,17 Oct 2022 05:58 PDT,17 Oct 2022 06:02 PDT,3.45,mins,NA,None,3.45,Alibaba Elastic Compute Service
+cn-shanghai,17 Oct 2022 04:19 PDT,17 Oct 2022 04:22 PDT,3.40,mins,NA,None,3.4,Alibaba Elastic Compute Service
+AU1,19 Oct 2022 07:28 PDT,19 Oct 2022 07:31 PDT,2.45,mins,NA,None,2.45,CenturyLink Cloud Servers
+DE1,23 Sep 2022 00:46 PDT,25 Sep 2022 23:31 PDT,70.74,hours,NA,None,4244.4,CenturyLink Cloud Servers
+GB3,18 Oct 2022 09:38 PDT,18 Oct 2022 09:40 PDT,1.75,mins,NA,None,1.75,CenturyLink Cloud Servers
+IL1,24 Sep 2022 18:10 PDT,25 Sep 2022 23:32 PDT,29.35,hours,NA,None,1761.0,CenturyLink Cloud Servers
+SG1,25 Sep 2022 02:24 PDT,25 Sep 2022 23:32 PDT,21.13,hours,NA,None,1267.8,CenturyLink Cloud Servers
+UC1,24 Sep 2022 05:00 PDT,25 Sep 2022 23:32 PDT,42.54,hours,NA,None,2552.4,CenturyLink Cloud Servers
+us-south,23 Sep 2022 20:48 PDT,23 Sep 2022 20:50 PDT,1.48,mins,NA,None,1.48,IBM Virtual Private Cloud
+southafrica-west,20 Oct 2022 02:06 PDT,20 Oct 2022 02:07 PDT,1.38,mins,NA,None,1.38,Microsoft Azure Virtual Machines
+ap-chuncheon-1,08 Oct 2022 17:30 PDT,08 Oct 2022 17:30 PDT,43,secs,NA,None,0.7166666666666667,Oracle Cloud Compute
+ap-tokyo-1,27 Sep 2022 23:02 PDT,27 Sep 2022 23:07 PDT,4.52,mins,NA,None,4.52,Oracle Cloud Compute

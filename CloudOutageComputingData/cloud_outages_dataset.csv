@@ -1,0 +1,271 @@
+place,start time,end time,original downtime,unit,Ripe Atlas Confirmation Ratio,notes,downtime,Service Name
+cn-nanjing,29 Aug 2022 19:28 PDT,29 Aug 2022 19:29 PDT,1.27,mins,NA,None,1.27,Alibaba Elastic Compute Service
+cn-nanjing,29 Aug 2022 07:13 PDT,29 Aug 2022 07:16 PDT,3.18,mins,NA,None,3.18,Alibaba Elastic Compute Service
+cn-nanjing,29 Aug 2022 03:01 PDT,29 Aug 2022 03:02 PDT,1.10,mins,NA,None,1.1,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 22:05 PDT,28 Aug 2022 22:08 PDT,2.45,mins,NA,None,2.45,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 07:54 PDT,28 Aug 2022 07:56 PDT,1.93,mins,NA,None,1.93,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 07:35 PDT,28 Aug 2022 07:48 PDT,13.30,mins,NA,None,13.3,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 06:11 PDT,28 Aug 2022 06:13 PDT,2.22,mins,NA,None,2.22,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 00:38 PDT,28 Aug 2022 00:39 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+cn-nanjing,28 Aug 2022 00:01 PDT,28 Aug 2022 00:02 PDT,1.05,mins,NA,None,1.05,Alibaba Elastic Compute Service
+cn-nanjing,27 Aug 2022 08:29 PDT,27 Aug 2022 08:29 PDT,40,secs,NA,None,0.6666666666666666,Alibaba Elastic Compute Service
+cn-nanjing,27 Aug 2022 06:32 PDT,27 Aug 2022 06:34 PDT,2.12,mins,NA,None,2.12,Alibaba Elastic Compute Service
+cn-nanjing,26 Aug 2022 09:55 PDT,26 Aug 2022 09:56 PDT,1.18,mins,NA,None,1.18,Alibaba Elastic Compute Service
+cn-nanjing,25 Aug 2022 22:26 PDT,25 Aug 2022 22:27 PDT,1.47,mins,NA,None,1.47,Alibaba Elastic Compute Service
+cn-nanjing,25 Aug 2022 21:55 PDT,25 Aug 2022 21:56 PDT,44,secs,NA,None,0.7333333333333333,Alibaba Elastic Compute Service
+cn-nanjing,22 Aug 2022 12:15 PDT,22 Aug 2022 12:22 PDT,6.58,mins,NA,None,6.58,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 16:38 PDT,21 Aug 2022 16:40 PDT,1.42,mins,NA,None,1.42,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 14:23 PDT,21 Aug 2022 14:25 PDT,1.05,mins,NA,None,1.05,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 10:09 PDT,21 Aug 2022 10:10 PDT,1.15,mins,NA,None,1.15,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 06:30 PDT,21 Aug 2022 06:30 PDT,40,secs,NA,None,0.6666666666666666,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 03:17 PDT,21 Aug 2022 03:17 PDT,34,secs,NA,None,0.5666666666666667,Alibaba Elastic Compute Service
+cn-nanjing,21 Aug 2022 02:32 PDT,21 Aug 2022 02:33 PDT,1.22,mins,NA,None,1.22,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 18:21 PDT,20 Aug 2022 18:22 PDT,49,secs,NA,None,0.8166666666666667,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 13:56 PDT,20 Aug 2022 13:57 PDT,44,secs,NA,None,0.7333333333333333,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 12:36 PDT,20 Aug 2022 12:38 PDT,2.05,mins,NA,None,2.05,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 06:25 PDT,20 Aug 2022 06:26 PDT,42,secs,NA,None,0.7,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 06:22 PDT,20 Aug 2022 06:23 PDT,43,secs,NA,None,0.7166666666666667,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 06:09 PDT,20 Aug 2022 06:09 PDT,35,secs,NA,None,0.5833333333333334,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 02:37 PDT,20 Aug 2022 02:37 PDT,30,secs,NA,None,0.5,Alibaba Elastic Compute Service
+cn-nanjing,20 Aug 2022 00:38 PDT,20 Aug 2022 00:43 PDT,4.62,mins,NA,None,4.62,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 07:41 PDT,19 Aug 2022 07:44 PDT,3.13,mins,NA,None,3.13,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 06:34 PDT,19 Aug 2022 06:36 PDT,1.57,mins,NA,None,1.57,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 05:38 PDT,19 Aug 2022 05:39 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 04:00 PDT,19 Aug 2022 04:01 PDT,50,secs,NA,None,0.8333333333333334,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 01:25 PDT,19 Aug 2022 01:26 PDT,35,secs,NA,None,0.5833333333333334,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 01:07 PDT,19 Aug 2022 01:08 PDT,1.02,mins,NA,None,1.02,Alibaba Elastic Compute Service
+cn-nanjing,19 Aug 2022 00:00 PDT,19 Aug 2022 00:00 PDT,45,secs,NA,None,0.75,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 12:27 PDT,18 Aug 2022 12:30 PDT,2.42,mins,NA,None,2.42,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 11:49 PDT,18 Aug 2022 11:51 PDT,2.52,mins,NA,None,2.52,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 09:36 PDT,18 Aug 2022 09:39 PDT,3.48,mins,NA,None,3.48,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 09:01 PDT,18 Aug 2022 09:02 PDT,1.30,mins,NA,None,1.3,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 06:24 PDT,18 Aug 2022 06:25 PDT,1.08,mins,NA,None,1.08,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 05:15 PDT,18 Aug 2022 05:16 PDT,39,secs,NA,None,0.65,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 05:00 PDT,18 Aug 2022 05:01 PDT,1.43,mins,NA,None,1.43,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 02:27 PDT,18 Aug 2022 02:29 PDT,1.95,mins,NA,None,1.95,Alibaba Elastic Compute Service
+cn-nanjing,18 Aug 2022 02:21 PDT,18 Aug 2022 02:23 PDT,1.53,mins,NA,None,1.53,Alibaba Elastic Compute Service
+cn-nanjing,17 Aug 2022 23:12 PDT,17 Aug 2022 23:13 PDT,44,secs,NA,None,0.7333333333333333,Alibaba Elastic Compute Service
+cn-nanjing,17 Aug 2022 02:02 PDT,17 Aug 2022 02:03 PDT,38,secs,NA,None,0.6333333333333333,Alibaba Elastic Compute Service
+cn-nanjing,15 Aug 2022 04:05 PDT,15 Aug 2022 04:06 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 07:15 PDT,14 Aug 2022 07:16 PDT,43,secs,NA,None,0.7166666666666667,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:55 PDT,14 Aug 2022 06:56 PDT,1.52,mins,NA,None,1.52,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:49 PDT,14 Aug 2022 06:50 PDT,44,secs,NA,None,0.7333333333333333,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:37 PDT,14 Aug 2022 06:38 PDT,1.05,mins,NA,None,1.05,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:20 PDT,14 Aug 2022 06:23 PDT,2.80,mins,NA,None,2.8,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:17 PDT,14 Aug 2022 06:18 PDT,1.05,mins,NA,None,1.05,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 06:14 PDT,14 Aug 2022 06:16 PDT,1.55,mins,NA,None,1.55,Alibaba Elastic Compute Service
+cn-nanjing,14 Aug 2022 05:13 PDT,14 Aug 2022 05:15 PDT,1.58,mins,NA,None,1.58,Alibaba Elastic Compute Service
+cn-nanjing,13 Aug 2022 09:51 PDT,13 Aug 2022 09:53 PDT,1.40,mins,NA,None,1.4,Alibaba Elastic Compute Service
+cn-nanjing,13 Aug 2022 05:09 PDT,13 Aug 2022 05:10 PDT,1.07,mins,NA,None,1.07,Alibaba Elastic Compute Service
+cn-nanjing,12 Aug 2022 08:39 PDT,12 Aug 2022 08:40 PDT,1.02,mins,NA,None,1.02,Alibaba Elastic Compute Service
+cn-nanjing,11 Aug 2022 22:57 PDT,11 Aug 2022 22:58 PDT,1.30,mins,NA,None,1.3,Alibaba Elastic Compute Service
+cn-nanjing,11 Aug 2022 20:56 PDT,11 Aug 2022 20:57 PDT,1.05,mins,NA,None,1.05,Alibaba Elastic Compute Service
+cn-nanjing,11 Aug 2022 18:08 PDT,11 Aug 2022 18:09 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+cn-nanjing,11 Aug 2022 02:03 PDT,11 Aug 2022 02:04 PDT,42,secs,NA,None,0.7,Alibaba Elastic Compute Service
+cn-nanjing,09 Aug 2022 09:12 PDT,09 Aug 2022 09:13 PDT,1.20,mins,NA,None,1.2,Alibaba Elastic Compute Service
+cn-nanjing,08 Aug 2022 03:01 PDT,08 Aug 2022 03:02 PDT,59,secs,NA,None,0.9833333333333333,Alibaba Elastic Compute Service
+cn-nanjing,07 Aug 2022 08:58 PDT,07 Aug 2022 08:59 PDT,45,secs,NA,None,0.75,Alibaba Elastic Compute Service
+cn-nanjing,04 Aug 2022 22:51 PDT,04 Aug 2022 22:52 PDT,39,secs,NA,None,0.65,Alibaba Elastic Compute Service
+cn-nanjing,03 Aug 2022 07:01 PDT,03 Aug 2022 07:02 PDT,1.02,mins,NA,None,1.02,Alibaba Elastic Compute Service
+cn-nanjing,03 Aug 2022 06:04 PDT,03 Aug 2022 06:05 PDT,43,secs,NA,None,0.7166666666666667,Alibaba Elastic Compute Service
+cn-nanjing,01 Aug 2022 20:40 PDT,01 Aug 2022 20:40 PDT,42,secs,NA,None,0.7,Alibaba Elastic Compute Service
+cn-nanjing,01 Aug 2022 18:12 PDT,01 Aug 2022 18:13 PDT,50,secs,NA,None,0.8333333333333334,Alibaba Elastic Compute Service
+cn-nanjing,01 Aug 2022 09:45 PDT,01 Aug 2022 09:48 PDT,3.73,mins,NA,None,3.73,Alibaba Elastic Compute Service
+cn-nanjing,01 Aug 2022 09:35 PDT,01 Aug 2022 09:37 PDT,1.83,mins,NA,None,1.83,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 16:30 PDT,31 Jul 2022 16:30 PDT,39,secs,NA,None,0.65,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 14:00 PDT,31 Jul 2022 14:00 PDT,49,secs,NA,None,0.8166666666666667,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 13:09 PDT,31 Jul 2022 13:11 PDT,1.90,mins,NA,None,1.9,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 10:32 PDT,31 Jul 2022 10:34 PDT,1.42,mins,NA,None,1.42,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 10:20 PDT,31 Jul 2022 10:21 PDT,40,secs,NA,None,0.6666666666666666,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 09:25 PDT,31 Jul 2022 09:26 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+cn-nanjing,31 Jul 2022 01:25 PDT,31 Jul 2022 01:27 PDT,2.05,mins,NA,None,2.05,Alibaba Elastic Compute Service
+DE3,30 Aug 2022 11:30 PDT,30 Aug 2022 11:55 PDT,24.82,mins,NA,None,24.82,CenturyLink Cloud Servers
+DE3,30 Aug 2022 01:27 PDT,30 Aug 2022 05:51 PDT,4.40,hours,NA,None,264.0,CenturyLink Cloud Servers
+DE3,28 Aug 2022 08:42 PDT,28 Aug 2022 12:22 PDT,3.67,hours,NA,None,220.2,CenturyLink Cloud Servers
+DE3,28 Aug 2022 04:52 PDT,28 Aug 2022 05:13 PDT,21.37,mins,NA,None,21.37,CenturyLink Cloud Servers
+DE3,28 Aug 2022 00:54 PDT,28 Aug 2022 01:37 PDT,43.15,mins,NA,None,43.15,CenturyLink Cloud Servers
+DE3,27 Aug 2022 16:35 PDT,27 Aug 2022 16:55 PDT,20.10,mins,NA,None,20.1,CenturyLink Cloud Servers
+DE3,26 Aug 2022 03:42 PDT,26 Aug 2022 08:01 PDT,4.32,hours,NA,None,259.20000000000005,CenturyLink Cloud Servers
+DE3,24 Aug 2022 07:27 PDT,24 Aug 2022 07:55 PDT,28.28,mins,NA,None,28.28,CenturyLink Cloud Servers
+DE3,24 Aug 2022 04:23 PDT,24 Aug 2022 07:05 PDT,2.70,hours,NA,None,162.0,CenturyLink Cloud Servers
+DE3,24 Aug 2022 00:55 PDT,24 Aug 2022 01:20 PDT,25.20,mins,NA,None,25.2,CenturyLink Cloud Servers
+DE3,23 Aug 2022 18:25 PDT,23 Aug 2022 19:25 PDT,1.00,hours,NA,None,60.0,CenturyLink Cloud Servers
+DE3,23 Aug 2022 16:52 PDT,23 Aug 2022 17:00 PDT,8.12,mins,NA,None,8.12,CenturyLink Cloud Servers
+DE3,23 Aug 2022 02:48 PDT,23 Aug 2022 08:10 PDT,5.37,hours,NA,None,322.2,CenturyLink Cloud Servers
+DE3,23 Aug 2022 00:18 PDT,23 Aug 2022 02:08 PDT,1.82,hours,NA,None,109.2,CenturyLink Cloud Servers
+DE3,22 Aug 2022 21:42 PDT,22 Aug 2022 21:58 PDT,15.88,mins,NA,None,15.88,CenturyLink Cloud Servers
+DE3,22 Aug 2022 03:31 PDT,22 Aug 2022 03:42 PDT,11.15,mins,NA,None,11.15,CenturyLink Cloud Servers
+DE3,22 Aug 2022 02:16 PDT,22 Aug 2022 02:36 PDT,19.83,mins,NA,None,19.83,CenturyLink Cloud Servers
+DE3,21 Aug 2022 20:40 PDT,21 Aug 2022 21:20 PDT,39.40,mins,NA,None,39.4,CenturyLink Cloud Servers
+DE3,21 Aug 2022 16:58 PDT,21 Aug 2022 17:23 PDT,25.13,mins,NA,None,25.13,CenturyLink Cloud Servers
+DE3,21 Aug 2022 06:06 PDT,21 Aug 2022 06:38 PDT,32.80,mins,NA,None,32.8,CenturyLink Cloud Servers
+DE3,19 Aug 2022 17:30 PDT,19 Aug 2022 18:22 PDT,52.10,mins,NA,None,52.1,CenturyLink Cloud Servers
+DE3,19 Aug 2022 10:43 PDT,19 Aug 2022 16:47 PDT,6.06,hours,NA,None,363.59999999999997,CenturyLink Cloud Servers
+DE3,19 Aug 2022 00:12 PDT,19 Aug 2022 00:24 PDT,11.13,mins,NA,None,11.13,CenturyLink Cloud Servers
+DE3,18 Aug 2022 21:46 PDT,18 Aug 2022 22:02 PDT,15.60,mins,NA,None,15.6,CenturyLink Cloud Servers
+DE3,17 Aug 2022 23:50 PDT,17 Aug 2022 23:58 PDT,7.32,mins,NA,None,7.32,CenturyLink Cloud Servers
+DE3,17 Aug 2022 22:09 PDT,17 Aug 2022 22:28 PDT,19.23,mins,NA,None,19.23,CenturyLink Cloud Servers
+DE3,17 Aug 2022 18:17 PDT,17 Aug 2022 18:48 PDT,30.82,mins,NA,None,30.82,CenturyLink Cloud Servers
+DE3,17 Aug 2022 14:28 PDT,17 Aug 2022 14:38 PDT,10.52,mins,NA,None,10.52,CenturyLink Cloud Servers
+DE3,15 Aug 2022 07:48 PDT,15 Aug 2022 07:58 PDT,9.78,mins,NA,None,9.78,CenturyLink Cloud Servers
+DE3,15 Aug 2022 01:07 PDT,15 Aug 2022 06:50 PDT,5.72,hours,NA,None,343.2,CenturyLink Cloud Servers
+DE3,14 Aug 2022 22:51 PDT,15 Aug 2022 00:03 PDT,1.21,hours,NA,None,72.6,CenturyLink Cloud Servers
+DE3,12 Aug 2022 07:01 PDT,12 Aug 2022 07:25 PDT,23.82,mins,NA,None,23.82,CenturyLink Cloud Servers
+DE3,12 Aug 2022 01:41 PDT,12 Aug 2022 01:49 PDT,7.72,mins,NA,None,7.72,CenturyLink Cloud Servers
+DE3,11 Aug 2022 03:02 PDT,11 Aug 2022 04:48 PDT,1.77,hours,NA,None,106.2,CenturyLink Cloud Servers
+DE3,10 Aug 2022 23:17 PDT,10 Aug 2022 23:56 PDT,38.72,mins,NA,None,38.72,CenturyLink Cloud Servers
+DE3,10 Aug 2022 15:54 PDT,10 Aug 2022 22:16 PDT,6.37,hours,NA,None,382.2,CenturyLink Cloud Servers
+DE3,10 Aug 2022 04:25 PDT,10 Aug 2022 04:47 PDT,21.98,mins,NA,None,21.98,CenturyLink Cloud Servers
+DE3,09 Aug 2022 02:59 PDT,09 Aug 2022 03:06 PDT,7.53,mins,NA,None,7.53,CenturyLink Cloud Servers
+DE3,08 Aug 2022 02:59 PDT,08 Aug 2022 03:07 PDT,8.33,mins,NA,None,8.33,CenturyLink Cloud Servers
+DE3,06 Aug 2022 07:39 PDT,06 Aug 2022 07:54 PDT,15.50,mins,NA,None,15.5,CenturyLink Cloud Servers
+DE3,05 Aug 2022 05:38 PDT,05 Aug 2022 05:57 PDT,19.12,mins,NA,None,19.12,CenturyLink Cloud Servers
+DE3,03 Aug 2022 23:42 PDT,03 Aug 2022 23:54 PDT,11.25,mins,NA,None,11.25,CenturyLink Cloud Servers
+DE3,03 Aug 2022 13:30 PDT,03 Aug 2022 13:37 PDT,7.68,mins,NA,None,7.68,CenturyLink Cloud Servers
+DE1,30 Aug 2022 07:27 PDT,30 Aug 2022 08:02 PDT,34.62,mins,NA,None,34.62,CenturyLink Cloud Servers
+DE1,30 Aug 2022 01:18 PDT,30 Aug 2022 04:00 PDT,2.71,hours,NA,None,162.6,CenturyLink Cloud Servers
+DE1,29 Aug 2022 12:02 PDT,29 Aug 2022 13:31 PDT,1.48,hours,NA,None,88.8,CenturyLink Cloud Servers
+DE1,29 Aug 2022 06:30 PDT,29 Aug 2022 07:00 PDT,29.57,mins,NA,None,29.57,CenturyLink Cloud Servers
+DE1,28 Aug 2022 20:21 PDT,29 Aug 2022 03:39 PDT,7.30,hours,NA,None,438.0,CenturyLink Cloud Servers
+DE1,28 Aug 2022 18:38 PDT,28 Aug 2022 19:13 PDT,34.33,mins,NA,None,34.33,CenturyLink Cloud Servers
+DE1,28 Aug 2022 13:14 PDT,28 Aug 2022 15:22 PDT,2.14,hours,NA,None,128.4,CenturyLink Cloud Servers
+DE1,27 Aug 2022 07:40 PDT,27 Aug 2022 08:03 PDT,23.58,mins,NA,None,23.58,CenturyLink Cloud Servers
+DE1,25 Aug 2022 01:51 PDT,25 Aug 2022 08:03 PDT,6.21,hours,NA,None,372.6,CenturyLink Cloud Servers
+DE1,25 Aug 2022 00:24 PDT,25 Aug 2022 00:46 PDT,22.03,mins,NA,None,22.03,CenturyLink Cloud Servers
+DE1,24 Aug 2022 19:51 PDT,24 Aug 2022 20:00 PDT,9.63,mins,NA,None,9.63,CenturyLink Cloud Servers
+DE1,24 Aug 2022 18:55 PDT,24 Aug 2022 18:58 PDT,3.00,mins,NA,None,3.0,CenturyLink Cloud Servers
+DE1,24 Aug 2022 15:46 PDT,24 Aug 2022 16:03 PDT,17.63,mins,NA,None,17.63,CenturyLink Cloud Servers
+DE1,24 Aug 2022 12:05 PDT,24 Aug 2022 12:28 PDT,22.72,mins,NA,None,22.72,CenturyLink Cloud Servers
+DE1,24 Aug 2022 00:16 PDT,24 Aug 2022 07:30 PDT,7.22,hours,NA,None,433.2,CenturyLink Cloud Servers
+DE1,23 Aug 2022 22:17 PDT,23 Aug 2022 22:51 PDT,33.77,mins,NA,None,33.77,CenturyLink Cloud Servers
+DE1,23 Aug 2022 18:25 PDT,23 Aug 2022 18:35 PDT,9.98,mins,NA,None,9.98,CenturyLink Cloud Servers
+DE1,23 Aug 2022 14:55 PDT,23 Aug 2022 15:07 PDT,12.73,mins,NA,None,12.73,CenturyLink Cloud Servers
+DE1,23 Aug 2022 02:21 PDT,23 Aug 2022 02:32 PDT,11.23,mins,NA,None,11.23,CenturyLink Cloud Servers
+DE1,22 Aug 2022 04:32 PDT,22 Aug 2022 05:15 PDT,42.62,mins,NA,None,42.62,CenturyLink Cloud Servers
+DE1,20 Aug 2022 15:31 PDT,20 Aug 2022 16:25 PDT,54.57,mins,NA,None,54.57,CenturyLink Cloud Servers
+DE1,20 Aug 2022 08:36 PDT,20 Aug 2022 10:45 PDT,2.14,hours,NA,None,128.4,CenturyLink Cloud Servers
+DE1,20 Aug 2022 03:06 PDT,20 Aug 2022 08:05 PDT,4.97,hours,NA,None,298.2,CenturyLink Cloud Servers
+DE1,19 Aug 2022 16:28 PDT,19 Aug 2022 16:36 PDT,7.93,mins,NA,None,7.93,CenturyLink Cloud Servers
+DE1,19 Aug 2022 11:07 PDT,19 Aug 2022 11:19 PDT,12.83,mins,NA,None,12.83,CenturyLink Cloud Servers
+DE1,19 Aug 2022 01:11 PDT,19 Aug 2022 01:33 PDT,22.33,mins,NA,None,22.33,CenturyLink Cloud Servers
+DE1,18 Aug 2022 06:31 PDT,18 Aug 2022 06:42 PDT,11.55,mins,NA,None,11.55,CenturyLink Cloud Servers
+DE1,16 Aug 2022 07:20 PDT,16 Aug 2022 08:06 PDT,45.92,mins,NA,None,45.92,CenturyLink Cloud Servers
+DE1,15 Aug 2022 20:45 PDT,15 Aug 2022 21:29 PDT,43.98,mins,NA,None,43.98,CenturyLink Cloud Servers
+DE1,15 Aug 2022 14:43 PDT,15 Aug 2022 17:03 PDT,2.34,hours,NA,None,140.39999999999998,CenturyLink Cloud Servers
+DE1,15 Aug 2022 11:42 PDT,15 Aug 2022 11:57 PDT,15.08,mins,NA,None,15.08,CenturyLink Cloud Servers
+DE1,15 Aug 2022 09:30 PDT,15 Aug 2022 09:34 PDT,4.43,mins,NA,None,4.43,CenturyLink Cloud Servers
+DE1,15 Aug 2022 00:26 PDT,15 Aug 2022 00:33 PDT,6.72,mins,NA,None,6.72,CenturyLink Cloud Servers
+DE1,12 Aug 2022 19:28 PDT,12 Aug 2022 19:48 PDT,20.05,mins,NA,None,20.05,CenturyLink Cloud Servers
+DE1,11 Aug 2022 07:19 PDT,11 Aug 2022 07:55 PDT,36.08,mins,NA,None,36.08,CenturyLink Cloud Servers
+DE1,11 Aug 2022 02:02 PDT,11 Aug 2022 02:28 PDT,26.40,mins,NA,None,26.4,CenturyLink Cloud Servers
+DE1,10 Aug 2022 04:44 PDT,10 Aug 2022 04:59 PDT,14.55,mins,NA,None,14.55,CenturyLink Cloud Servers
+DE1,08 Aug 2022 21:00 PDT,08 Aug 2022 21:54 PDT,54.02,mins,NA,None,54.02,CenturyLink Cloud Servers
+DE1,08 Aug 2022 08:41 PDT,08 Aug 2022 09:13 PDT,32.05,mins,NA,None,32.05,CenturyLink Cloud Servers
+DE1,08 Aug 2022 08:00 PDT,08 Aug 2022 08:03 PDT,2.85,mins,NA,None,2.85,CenturyLink Cloud Servers
+DE1,04 Aug 2022 08:21 PDT,04 Aug 2022 08:37 PDT,16.08,mins,NA,None,16.08,CenturyLink Cloud Servers
+DE1,31 Jul 2022 07:46 PDT,31 Jul 2022 07:59 PDT,13.15,mins,NA,None,13.15,CenturyLink Cloud Servers
+IL1,30 Aug 2022 08:29 PDT,30 Aug 2022 08:44 PDT,15.25,mins,NA,None,15.25,CenturyLink Cloud Servers
+IL1,30 Aug 2022 05:43 PDT,30 Aug 2022 05:53 PDT,10.55,mins,NA,None,10.55,CenturyLink Cloud Servers
+IL1,29 Aug 2022 04:41 PDT,29 Aug 2022 05:12 PDT,30.73,mins,NA,None,30.73,CenturyLink Cloud Servers
+IL1,28 Aug 2022 22:32 PDT,29 Aug 2022 01:51 PDT,3.32,hours,NA,None,199.2,CenturyLink Cloud Servers
+IL1,28 Aug 2022 20:01 PDT,28 Aug 2022 20:13 PDT,11.65,mins,NA,None,11.65,CenturyLink Cloud Servers
+IL1,28 Aug 2022 12:27 PDT,28 Aug 2022 16:28 PDT,4.01,hours,NA,None,240.6,CenturyLink Cloud Servers
+IL1,28 Aug 2022 02:57 PDT,28 Aug 2022 03:25 PDT,27.92,mins,NA,None,27.92,CenturyLink Cloud Servers
+IL1,27 Aug 2022 07:29 PDT,27 Aug 2022 08:06 PDT,37.12,mins,NA,None,37.12,CenturyLink Cloud Servers
+IL1,27 Aug 2022 01:01 PDT,27 Aug 2022 01:22 PDT,21.00,mins,NA,None,21.0,CenturyLink Cloud Servers
+IL1,26 Aug 2022 07:33 PDT,26 Aug 2022 08:01 PDT,28.37,mins,NA,None,28.37,CenturyLink Cloud Servers
+IL1,24 Aug 2022 23:35 PDT,25 Aug 2022 03:43 PDT,4.14,hours,NA,None,248.39999999999998,CenturyLink Cloud Servers
+IL1,24 Aug 2022 09:24 PDT,24 Aug 2022 09:45 PDT,21.78,mins,NA,None,21.78,CenturyLink Cloud Servers
+IL1,23 Aug 2022 02:03 PDT,23 Aug 2022 07:49 PDT,5.77,hours,NA,None,346.2,CenturyLink Cloud Servers
+IL1,22 Aug 2022 20:30 PDT,22 Aug 2022 20:41 PDT,10.83,mins,NA,None,10.83,CenturyLink Cloud Servers
+IL1,22 Aug 2022 16:27 PDT,22 Aug 2022 17:35 PDT,1.12,hours,NA,None,67.2,CenturyLink Cloud Servers
+IL1,20 Aug 2022 05:58 PDT,20 Aug 2022 07:58 PDT,2.01,hours,NA,None,120.6,CenturyLink Cloud Servers
+IL1,19 Aug 2022 18:46 PDT,20 Aug 2022 02:46 PDT,8.00,hours,NA,None,480.0,CenturyLink Cloud Servers
+IL1,19 Aug 2022 05:06 PDT,19 Aug 2022 05:56 PDT,49.72,mins,NA,None,49.72,CenturyLink Cloud Servers
+IL1,18 Aug 2022 22:17 PDT,18 Aug 2022 23:36 PDT,1.32,hours,NA,None,79.2,CenturyLink Cloud Servers
+IL1,18 Aug 2022 19:10 PDT,18 Aug 2022 21:04 PDT,1.89,hours,NA,None,113.39999999999999,CenturyLink Cloud Servers
+IL1,18 Aug 2022 03:16 PDT,18 Aug 2022 07:07 PDT,3.85,hours,NA,None,231.0,CenturyLink Cloud Servers
+IL1,18 Aug 2022 02:39 PDT,18 Aug 2022 03:02 PDT,23.93,mins,NA,None,23.93,CenturyLink Cloud Servers
+IL1,17 Aug 2022 04:35 PDT,17 Aug 2022 06:34 PDT,1.98,hours,NA,None,118.8,CenturyLink Cloud Servers
+IL1,17 Aug 2022 02:24 PDT,17 Aug 2022 03:44 PDT,1.34,hours,NA,None,80.4,CenturyLink Cloud Servers
+IL1,16 Aug 2022 18:37 PDT,16 Aug 2022 18:56 PDT,19.42,mins,NA,None,19.42,CenturyLink Cloud Servers
+IL1,15 Aug 2022 07:52 PDT,15 Aug 2022 07:58 PDT,6.37,mins,NA,None,6.37,CenturyLink Cloud Servers
+IL1,14 Aug 2022 05:02 PDT,14 Aug 2022 05:13 PDT,10.78,mins,NA,None,10.78,CenturyLink Cloud Servers
+IL1,13 Aug 2022 04:53 PDT,13 Aug 2022 05:13 PDT,20.62,mins,NA,None,20.62,CenturyLink Cloud Servers
+IL1,12 Aug 2022 19:45 PDT,12 Aug 2022 23:12 PDT,3.44,hours,NA,None,206.4,CenturyLink Cloud Servers
+IL1,12 Aug 2022 14:17 PDT,12 Aug 2022 19:33 PDT,5.28,hours,NA,None,316.8,CenturyLink Cloud Servers
+IL1,12 Aug 2022 05:53 PDT,12 Aug 2022 06:02 PDT,8.63,mins,NA,None,8.63,CenturyLink Cloud Servers
+IL1,11 Aug 2022 02:57 PDT,11 Aug 2022 03:22 PDT,24.38,mins,NA,None,24.38,CenturyLink Cloud Servers
+IL1,10 Aug 2022 04:25 PDT,10 Aug 2022 04:36 PDT,10.38,mins,NA,None,10.38,CenturyLink Cloud Servers
+IL1,09 Aug 2022 05:52 PDT,09 Aug 2022 06:22 PDT,30.18,mins,NA,None,30.18,CenturyLink Cloud Servers
+IL1,09 Aug 2022 02:03 PDT,09 Aug 2022 02:44 PDT,40.73,mins,NA,None,40.73,CenturyLink Cloud Servers
+IL1,08 Aug 2022 07:35 PDT,08 Aug 2022 07:50 PDT,15.12,mins,NA,None,15.12,CenturyLink Cloud Servers
+IL1,04 Aug 2022 07:34 PDT,04 Aug 2022 07:48 PDT,14.72,mins,NA,None,14.72,CenturyLink Cloud Servers
+NY1,30 Aug 2022 16:20 PDT,30 Aug 2022 17:30 PDT,1.16,hours,NA,None,69.6,CenturyLink Cloud Servers
+NY1,30 Aug 2022 05:08 PDT,30 Aug 2022 11:02 PDT,5.90,hours,NA,None,354.0,CenturyLink Cloud Servers
+NY1,29 Aug 2022 23:12 PDT,29 Aug 2022 23:55 PDT,43.00,mins,NA,None,43.0,CenturyLink Cloud Servers
+NY1,29 Aug 2022 15:19 PDT,29 Aug 2022 15:24 PDT,5.85,mins,NA,None,5.85,CenturyLink Cloud Servers
+NY1,28 Aug 2022 07:33 PDT,28 Aug 2022 08:05 PDT,32.13,mins,NA,None,32.13,CenturyLink Cloud Servers
+NY1,28 Aug 2022 00:38 PDT,28 Aug 2022 02:04 PDT,1.44,hours,NA,None,86.39999999999999,CenturyLink Cloud Servers
+NY1,26 Aug 2022 06:57 PDT,26 Aug 2022 08:01 PDT,1.07,hours,NA,None,64.2,CenturyLink Cloud Servers
+NY1,25 Aug 2022 09:33 PDT,25 Aug 2022 14:29 PDT,4.93,hours,NA,None,295.79999999999995,CenturyLink Cloud Servers
+NY1,24 Aug 2022 22:23 PDT,24 Aug 2022 22:47 PDT,24.47,mins,NA,None,24.47,CenturyLink Cloud Servers
+NY1,24 Aug 2022 06:00 PDT,24 Aug 2022 06:09 PDT,9.72,mins,NA,None,9.72,CenturyLink Cloud Servers
+NY1,24 Aug 2022 02:23 PDT,24 Aug 2022 02:55 PDT,31.70,mins,NA,None,31.7,CenturyLink Cloud Servers
+NY1,23 Aug 2022 15:01 PDT,23 Aug 2022 15:25 PDT,24.08,mins,NA,None,24.08,CenturyLink Cloud Servers
+NY1,23 Aug 2022 11:02 PDT,23 Aug 2022 13:31 PDT,2.49,hours,NA,None,149.4,CenturyLink Cloud Servers
+NY1,21 Aug 2022 02:45 PDT,21 Aug 2022 08:10 PDT,5.42,hours,NA,None,325.2,CenturyLink Cloud Servers
+NY1,21 Aug 2022 01:29 PDT,21 Aug 2022 02:16 PDT,47.00,mins,NA,None,47.0,CenturyLink Cloud Servers
+NY1,19 Aug 2022 07:33 PDT,19 Aug 2022 07:59 PDT,26.53,mins,NA,None,26.53,CenturyLink Cloud Servers
+NY1,19 Aug 2022 03:02 PDT,19 Aug 2022 03:19 PDT,17.13,mins,NA,None,17.13,CenturyLink Cloud Servers
+NY1,18 Aug 2022 05:16 PDT,18 Aug 2022 05:38 PDT,21.58,mins,NA,None,21.58,CenturyLink Cloud Servers
+NY1,16 Aug 2022 23:27 PDT,16 Aug 2022 23:53 PDT,25.97,mins,NA,None,25.97,CenturyLink Cloud Servers
+NY1,16 Aug 2022 12:53 PDT,16 Aug 2022 20:38 PDT,7.75,hours,NA,None,465.0,CenturyLink Cloud Servers
+NY1,16 Aug 2022 11:46 PDT,16 Aug 2022 11:55 PDT,9.25,mins,NA,None,9.25,CenturyLink Cloud Servers
+NY1,16 Aug 2022 04:08 PDT,16 Aug 2022 04:26 PDT,18.17,mins,NA,None,18.17,CenturyLink Cloud Servers
+NY1,15 Aug 2022 05:33 PDT,15 Aug 2022 05:37 PDT,4.97,mins,NA,None,4.97,CenturyLink Cloud Servers
+NY1,15 Aug 2022 03:20 PDT,15 Aug 2022 03:25 PDT,4.85,mins,NA,None,4.85,CenturyLink Cloud Servers
+NY1,13 Aug 2022 06:34 PDT,13 Aug 2022 06:50 PDT,16.05,mins,NA,None,16.05,CenturyLink Cloud Servers
+NY1,12 Aug 2022 16:15 PDT,12 Aug 2022 18:31 PDT,2.27,hours,NA,None,136.2,CenturyLink Cloud Servers
+NY1,12 Aug 2022 12:15 PDT,12 Aug 2022 15:37 PDT,3.37,hours,NA,None,202.20000000000002,CenturyLink Cloud Servers
+NY1,12 Aug 2022 06:51 PDT,12 Aug 2022 07:29 PDT,38.08,mins,NA,None,38.08,CenturyLink Cloud Servers
+NY1,11 Aug 2022 06:28 PDT,11 Aug 2022 06:50 PDT,21.73,mins,NA,None,21.73,CenturyLink Cloud Servers
+NY1,10 Aug 2022 05:25 PDT,10 Aug 2022 05:49 PDT,23.48,mins,NA,None,23.48,CenturyLink Cloud Servers
+NY1,08 Aug 2022 23:16 PDT,08 Aug 2022 23:35 PDT,18.63,mins,NA,None,18.63,CenturyLink Cloud Servers
+NY1,08 Aug 2022 10:24 PDT,08 Aug 2022 10:39 PDT,15.50,mins,NA,None,15.5,CenturyLink Cloud Servers
+NY1,04 Aug 2022 05:22 PDT,04 Aug 2022 08:01 PDT,2.65,hours,NA,None,159.0,CenturyLink Cloud Servers
+eu-moscow,30 Aug 2022 05:18 PDT,30 Aug 2022 05:21 PDT,2.98,mins,NA,None,2.98,Tencent Cloud Virtual Machine
+eu-moscow,14 Aug 2022 04:22 PDT,14 Aug 2022 04:23 PDT,1.13,mins,NA,None,1.13,Tencent Cloud Virtual Machine
+eu-moscow,14 Aug 2022 03:55 PDT,14 Aug 2022 03:58 PDT,2.58,mins,NA,None,2.58,Tencent Cloud Virtual Machine
+eu-moscow,11 Aug 2022 12:28 PDT,11 Aug 2022 12:36 PDT,8.02,mins,NA,None,8.02,Tencent Cloud Virtual Machine
+ap-southeast-6,28 Aug 2022 10:04 PDT,28 Aug 2022 10:06 PDT,1.35,mins,NA,None,1.35,Alibaba Elastic Compute Service
+ap-southeast-6,28 Aug 2022 10:03 PDT,28 Aug 2022 10:04 PDT,56,secs,NA,None,0.9333333333333333,Alibaba Elastic Compute Service
+ap-southeast-6,08 Aug 2022 08:02 PDT,08 Aug 2022 08:07 PDT,5.30,mins,NA,None,5.3,Alibaba Elastic Compute Service
+cn-shanghai,18 Aug 2022 10:37 PDT,18 Aug 2022 10:38 PDT,57,secs,NA,None,0.95,Alibaba Elastic Compute Service
+cn-shanghai,18 Aug 2022 09:37 PDT,18 Aug 2022 09:39 PDT,2.62,mins,NA,None,2.62,Alibaba Elastic Compute Service
+cn-shanghai,17 Aug 2022 21:29 PDT,17 Aug 2022 21:30 PDT,52,secs,NA,None,0.8666666666666667,Alibaba Elastic Compute Service
+Loading,outages... Specific outage records are,unavailable Unable to load service,outages,0,0,0,0.0,
+ap-chongqing,19 Aug 2022 07:40 PDT,19 Aug 2022 07:44 PDT,4.33,mins,NA,None,4.33,Tencent Cloud Virtual Machine
+ap-chongqing,19 Aug 2022 07:34 PDT,19 Aug 2022 07:40 PDT,5.52,mins,NA,None,5.52,Tencent Cloud Virtual Machine
+ap-chongqing,18 Aug 2022 09:36 PDT,18 Aug 2022 09:40 PDT,4.33,mins,NA,None,4.33,Tencent Cloud Virtual Machine
+cn-guangzhou,20 Aug 2022 07:33 PDT,20 Aug 2022 07:34 PDT,1.22,mins,NA,None,1.22,Alibaba Elastic Compute Service
+cn-guangzhou,02 Aug 2022 20:48 PDT,02 Aug 2022 20:50 PDT,2.25,mins,NA,None,2.25,Alibaba Elastic Compute Service
+cn-hangzhou,28 Aug 2022 07:49 PDT,28 Aug 2022 07:52 PDT,2.80,mins,NA,None,2.8,Alibaba Elastic Compute Service
+cn-hangzhou,22 Aug 2022 12:21 PDT,22 Aug 2022 12:22 PDT,54,secs,NA,None,0.9,Alibaba Elastic Compute Service
+ap-beijing,25 Aug 2022 11:55 PDT,25 Aug 2022 12:02 PDT,6.95,mins,NA,None,6.95,Tencent Cloud Virtual Machine
+ap-beijing,18 Aug 2022 09:35 PDT,18 Aug 2022 09:39 PDT,4.00,mins,NA,None,4.0,Tencent Cloud Virtual Machine
+ap-shanghai,29 Aug 2022 22:51 PDT,29 Aug 2022 22:54 PDT,2.68,mins,NA,None,2.68,Tencent Cloud Virtual Machine
+ap-shanghai,18 Aug 2022 09:35 PDT,18 Aug 2022 09:39 PDT,4.12,mins,NA,None,4.12,Tencent Cloud Virtual Machine
+ap-south-1,08 Aug 2022 08:07 PDT,08 Aug 2022 08:09 PDT,2.12,mins,NA,None,2.12,Alibaba Elastic Compute Service
+ap-southeast-1,08 Aug 2022 08:05 PDT,08 Aug 2022 08:06 PDT,1.03,mins,NA,None,1.03,Alibaba Elastic Compute Service
+ap-southeast-2,08 Aug 2022 08:05 PDT,08 Aug 2022 08:06 PDT,57,secs,NA,None,0.95,Alibaba Elastic Compute Service
+ap-southeast-3,08 Aug 2022 08:03 PDT,08 Aug 2022 08:06 PDT,3.03,mins,NA,None,3.03,Alibaba Elastic Compute Service
+ap-southeast-5,08 Aug 2022 08:02 PDT,08 Aug 2022 08:05 PDT,3.23,mins,NA,None,3.23,Alibaba Elastic Compute Service
+cn-huhehaote,18 Aug 2022 09:37 PDT,18 Aug 2022 09:40 PDT,3.13,mins,NA,None,3.13,Alibaba Elastic Compute Service
+cn-shenzhen,18 Aug 2022 09:37 PDT,18 Aug 2022 09:39 PDT,2.12,mins,NA,None,2.12,Alibaba Elastic Compute Service
+me-south-1,25 Aug 2022 23:55 PDT,25 Aug 2022 23:58 PDT,2.88,mins,NA,None,2.88,Amazon EC2
+GB3,14 Aug 2022 23:52 PDT,14 Aug 2022 23:53 PDT,1.28,mins,NA,None,1.28,CenturyLink Cloud Servers
+tor1,09 Aug 2022 22:34 PDT,09 Aug 2022 22:36 PDT,1.83,mins,NA,None,1.83,DigitalOcean
+canada-east,25 Aug 2022 00:27 PDT,25 Aug 2022 00:54 PDT,26.78,mins,NA,None,26.78,Microsoft Azure Virtual Machines
+ap-jakarta,18 Aug 2022 09:29 PDT,18 Aug 2022 09:45 PDT,15.42,mins,NA,None,15.42,Tencent Cloud Virtual Machine
+ap-nanjing,28 Aug 2022 06:09 PDT,28 Aug 2022 06:13 PDT,4.52,mins,NA,None,4.52,Tencent Cloud Virtual Machine
